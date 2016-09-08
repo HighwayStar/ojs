@@ -21,4 +21,17 @@
 	<!-- galleys grid -->
 
 	<!-- galley files grid -->
+	<message key="submission.submit.title">Подать статью</message>
+	<message key="submission.title">Название статьи</message>
+	<message key="submission.title.tip">Название должно быть кратким и максимально полно отражать смысл содержания.</message>
+	<message key="submission.submit.newSubmissionMultiple">Начать подачу новой заявки в</message>
+	<message key="submission.submit.newSubmissionSingle">Новая заявка</message>
+	<message key="grid.action.workflow">Ход работ по заявке</message>
+	<message key="submission.issueEntry">Метаданные</message>
+	<message key="submission.submit.whatNext.description">Журнал был оповещен о Вашем заявлении, а на Вашу электронную почту было направлено подтверждение. Редакция свяжется с Вами, как только ознакомится с заявлением.</message>
+	<message key="submission.complete">Подтверждено</message>
+	<message key="submission.incomplete">Ожидание подтверждения</message>
+	<message key="submission.pageProofs">Корректура</message>
+	<message key="workflow.review.externalReview">На рецензии</message>
+	<message key="editor.submission.decision.sendExternalReview">Отправить на рецензию</message>
 </locale>

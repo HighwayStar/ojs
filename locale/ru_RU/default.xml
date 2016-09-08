@@ -154,4 +154,8 @@ ________________________________________________________________________</messag
 	<message key="default.journalSettings.membershipFeeDescription">Оплата этой суммы включит вас в список членов данной ассоциации сроком на один год и даст свободный доступ к этому журналу.</message>
 	<message key="default.journalSettings.donationFee">Добровольные пожертвования журналу</message>
 	<message key="default.journalSettings.donationFeeDescription">Мы с благодарностью принимаем любые суммы пожертвования этому журналу, они дают возможность редакторам поддерживать высокое качество журнала для своих читателей.</message>
+	<message key="default.groups.name.editor">Редактор журнала</message>
+	<message key="default.groups.plural.editor">Редакторы журнала</message>
+	<message key="default.groups.abbrev.editor">Ред.</message>
+	<message key="default.groups.name.guestEditor">Приглашенный редактор</message>
 </locale>

@@ -215,4 +215,12 @@
 	<message key="editor.article.removeCoverPage">Удалить изображение обложки?</message>
 	<message key="editor.article.remove">Удалить</message>
 	<message key="editor.issues.invalidAccessDate">Неверная дата предоставления открытого доступа.</message>
+	<message key="editor.issues.editIssue">Редактирование выпуска: {$issueIdentification}</message>
+	<message key="editor.issues.datePublished">Дата опубликования</message>
+	<message key="grid.action.addGalley">Добавить гранки</message>
+	<message key="grid.action.publish">Опубликовать выпуск</message>
+	<message key="grid.action.addIssue">Создать выпуск</message>
+	<message key="grid.action.viewIssue">Просмотреть</message>
+	<message key="grid.action.previewIssue">Предпросмотр</message>
+	<message key="grid.action.addIssueGalley">Создать гранки выпуска</message>
 </locale>
