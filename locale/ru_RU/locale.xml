@@ -1110,4 +1110,7 @@
 	<message key="debug.notes.currencyListLoad">Загружен список валют «{$filename}» в XML</message>
 	<message key="about.contact">Контакты</message>
 	<message key="about.aboutContext">О журнале</message>
+	<message key="editor.navigation.issues">Выпуски</message>
+	<message key="editor.issues.backIssues">Прошлые Выпуски</message>
+	<message key="editor.issues.futureIssues">Будущие Выпуски</message>
 </locale>
